@@ -1,0 +1,1 @@
+find "Hogwarts Legacy" -type f -exec md5sum {} \; | tee md5sum.txt
